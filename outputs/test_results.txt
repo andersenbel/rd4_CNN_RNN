@@ -1,0 +1,2 @@
+Final Train Accuracy: 68.30%
+Final Validation Accuracy: 72.62%
